@@ -1,0 +1,22 @@
+<!--login.wxml-->
+<view class="container">
+  <view class="fixedImg">
+     <image src="../../image/bgLogin.png"></image>
+     <view class="logo">
+         <image src="../../image/logo.png"></image>
+     </view>
+  </view>
+  <view class="content">
+      <view class="title"></view>
+      <view class="inputView">
+        <input type='text'></input>
+      </view>
+      <view class="inputView">
+        <input type="password"></input>
+      </view>
+      <view class="inputView">
+        <input type="text"></input>
+      </view>
+      <view class="button">登录</view>
+  </view>
+</view>

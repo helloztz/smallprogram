@@ -1,0 +1,22 @@
+/**app.wxss**/
+/* .container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 200rpx 0;
+  box-sizing: border-box;
+}  */
+.fixedImg{
+  position: fixed;
+  left: 0;
+  top:0;
+  
+}
+.button{
+  background:linear-gradient(90deg,rgba(84,209,255,1),rgba(129,147,255,1),rgba(38,147,244,1));
+  color: #fff;
+  text-align: center;
+  letter-spacing: 15rpx;
+}

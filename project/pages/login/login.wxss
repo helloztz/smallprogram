@@ -1,0 +1,24 @@
+.logo{
+  position: fixed;
+  left:0px;
+  top:0px;
+  width:80%;
+}
+.container{
+  position: relative;
+}
+.content{
+  width:81%;
+  position: absolute;
+  left:50%;
+  top:180px;
+  transform: translateX(-50%);
+  box-shadow:0px 1px 35px 0px rgba(119,126,221,0.27);
+  border-radius:24rpx;
+  background: #fff;
+  padding: 39px 62px;
+}
+.button{
+  border-radius:42px;
+
+}
